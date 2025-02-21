@@ -13,9 +13,9 @@ message = 'hello from python'
 
 "We create strings by first clicking on the keyboard and then typing text within the quotes"
 
-"Strings can contain virtually any ky on your keyboard"
+"Strings can contain virtually any key on your keyboard"
 
-"Strings are used mostly for text based data like mesages, comments, etc."
+"Strings are used mostly for text based data like messages, comments, etc."
 
 # Integer Data Type
 # An integer is just another way of saying number

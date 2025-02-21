@@ -25,6 +25,22 @@ print(age >= ageToBuy)
 #Logical Operator
 
 studentGrade = 12
-studentHasTakenCode = True
+studentHasTakenCode = True 
 
-print(studentGrade == 11 and studentHasTakenCode == True) 
+print(studentGrade == 11 and studentHasTakenCode == True)  
+
+# 1. Use one of the following functions to fix the following code so that the print function shows a string.
+
+number = 203
+print(str(number))
+
+# 2. Create 2 variables that contain the input function and then multiply and print the result of the two variables.
+
+ 
+
+# Common Types of errors
+# Syntax Error: There was an issue with how you wrote coding symbols, or you wrote your code out of order-such as operators, brackets, etc.
+# Name error: There was an erroer with the name of a variable or function; could be misspelling.
+# Type error: There was an issue with the data type you are trying to use; such as combining a string with an integer.
+# Indentation error: There was an issue with how you spaced out lines in a function.
+# Index error: You are trying to access a piece of data that does not exist in a list.
