@@ -14,12 +14,12 @@ num = "25"
 new_num = int(num) + 5
 print(new_num)
 
-"The output for this code will be 30. The code is basically addint 5 to 25"
+"The output for this code will be 30. The code is basically adding 5 to 25"
 
 # Create a function that asks a user for their birth year using the input() function and then calculates their age.
 
 def birth Year():
-birth year: "Insert here"
+birthYear: Insert here
 
 # hint: you will need to use type casting to change the data type of your input.
 
