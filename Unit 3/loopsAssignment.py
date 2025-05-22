@@ -5,4 +5,4 @@ def wordGuess():
     else:
         print('No')
 
-wordGuess(INVINCIBLE)
+wordGuess(INVINCIBLE)          
